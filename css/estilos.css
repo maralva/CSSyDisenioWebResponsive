@@ -73,6 +73,11 @@ a[href="index.html"]{
     background-color: #d5c75f;
     width: 100%
 }
+p{
+  text-decoration: underline;
+  font-weight: bold;
+  font-size: 1.5em;
+}
 #imagen2>img:first-child:hover {
   transform: rotateZ(10deg);
   box-shadow:2px 2px 2px #82c3a6;
